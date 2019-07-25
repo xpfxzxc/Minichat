@@ -1,7 +1,7 @@
 <template>
   <mu-flex class="login" v-loading="logining">
     <div class="top-part unselectable">
-        <span class="version">v1.0.0</span>
+        <span class="version">v1.0.1</span>
         <h1>Minichat</h1>
     </div>
       
